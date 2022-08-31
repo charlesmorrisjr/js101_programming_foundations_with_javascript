@@ -1,0 +1,16 @@
+Write a function that returns the sum of two numbers.
+
+
+Given 2 numbers:
+
+Take both numbers and add them to each other
+
+Return the result
+
+
+
+START
+
+# Given two numbers: number1 and number2
+
+PRINT number1 + number2

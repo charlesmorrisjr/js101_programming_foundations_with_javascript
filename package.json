@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/charlesmorrisjr/js101_programming_foundations_with_javascript#readme",
   "dependencies": {
+    "press-any-key": "^0.1.1",
+    "press-any-key-sync": "^1.0.4",
     "readline-sync": "^1.4.10"
   }
 }

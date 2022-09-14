@@ -2,7 +2,7 @@
 
 const INITIAL_MARKER = ' ';
 const SCORE_TO_WIN = 3;
-const FIRST_TURN = 'choose';    //'player', 'computer', 'choose'
+const FIRST_TURN = 'player';    //'player', 'computer', 'choose'
 
 const WINNING_COMBOS = [
   [0, 1, 2],

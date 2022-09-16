@@ -1,4 +1,3 @@
-
 const readline = require('readline-sync');
 const pressAnyKey = require('press-any-key-sync');
 
